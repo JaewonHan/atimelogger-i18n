@@ -239,7 +239,7 @@
 "Like us on Facebook" = "Facebook에서 좋아요";
 "Credits" = "제작진";
 "Icon design" = "아이콘 디자인";
-"Japanese" = "독도는 우리땅";
+"Japanese" = "일본";
 "Korea Distributor" = "대한민국";
 "Chinese" = "중국";
 "Swedish" = "스웨덴";
@@ -284,7 +284,7 @@
 "Default edit field" = "기본 설정 필드";
 "Simple" = "Simple";
 "Complex" = "Complex";
-"Tap on history or running activity" = "진행이거나 기록된 활동을 탭하세요";
+"Tap on history or running activity" = "진행중이거나 기록된 활동을 탭하세요";
 "Tapping anywhere takes us to 'Edit activity'" = "Tapping anywhere takes us to '활동 편집'";
 "Tapping on the icon takes us to 'Edit activity', tapping on the text part takes us to 'Edit interval'" = "Tapping on the icon takes us to '활동 편집', tapping on the text part takes us to '기간 편집'";
 "Min. activity duration" = "Min. activity duration";
